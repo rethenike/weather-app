@@ -44,6 +44,9 @@ The application requires the following environment variable:
 2. Press Enter or click the search button
 3. View current weather conditions and hourly forecast
 
+## Live Demo
+https://rethenike.github.io/weather-app/
+
 ## Technologies Used
 
 - HTML5
